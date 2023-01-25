@@ -42,8 +42,3 @@
 - [X] 🌐 21 > [The OSI Model - Network Layer](https://github.com/verma-kunal/DevOps-90/blob/main/Journey/OSI-Model/Network-layer.md)
 
 
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=sanjay9027/DevOps-Guide&type=Timeline)](https://star-history.com/#sanjay9027/DevOps-Guide&Timeline)
