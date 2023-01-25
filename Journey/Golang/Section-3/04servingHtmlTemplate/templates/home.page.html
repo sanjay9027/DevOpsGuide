@@ -1,0 +1,14 @@
+{{template "base" .}}
+<!--this is to tell the Go compiler that we are using the base template -->
+
+<!--then we define our main content for this page in the "content" block we created in the base template-->
+{{define "content"}}
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h1>This is the Home Page</h1>
+                <p>This is some text</p>
+            </div>
+        </div>
+    </div>
+{{end}}
